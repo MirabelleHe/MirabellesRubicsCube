@@ -1,0 +1,24 @@
+Welcome to Mirabelle's Rubik's Cube!!! 
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+To enter the game go to "forClass3D" folder and press "Mirabelles Rubiks Cube.exe".
+
+First you need to mess all the cubes and than try and bring it back to the original state.
+
+Buttons:
+Right Arrow - Move whole cube right
+Left Arrow - Move whole cube left
+Up Arrow - Move whole cube up
+Down Arrow - Move whole cube down
+R - Rotate right wall
+L - Rotate left wall
+U - Rotate up wall
+D - Rotate down wall
+F - Rotate fron wall
+B - Rotate back wall
+Space - flip direction, press again to return ro default direction (default = clock wise)
+A - Rotate 180 degrees, press again to return to default (default = 90 degrees)
+
+Hope you'll enjoy the game :)
+
+All rights reserved to Mirabelle Herscu

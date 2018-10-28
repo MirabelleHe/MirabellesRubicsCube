@@ -1,0 +1,7 @@
+﻿  shader.cpp
+  obj_loader.cpp
+g:\university\semester e\graphics\assignment2\rubikscube 2.1\engine\obj_loader.cpp(401): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  mesh.cpp
+  Generating Code...
+  stb_image.c
+  engine.vcxproj -> G:\University\Semester e\Graphics\Assignment2\RubiksCube 2.1\Debug\engine.lib
